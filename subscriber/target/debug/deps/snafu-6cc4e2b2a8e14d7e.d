@@ -1,0 +1,12 @@
+C:\Users\ASUS\Documents\Term 4\Adpro\tutorial-8\subscriber\target\debug\deps\libsnafu-6cc4e2b2a8e14d7e.rmeta: C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\backtrace_inert.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\once_bool.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\error_chain.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\report.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\Snafu.md C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\report.md C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\../README.md
+
+C:\Users\ASUS\Documents\Term 4\Adpro\tutorial-8\subscriber\target\debug\deps\snafu-6cc4e2b2a8e14d7e.d: C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\backtrace_inert.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\once_bool.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\error_chain.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\report.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\Snafu.md C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\report.md C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\../README.md
+
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\lib.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\backtrace_inert.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\once_bool.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\error_chain.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\report.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\Snafu.md:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\report.md:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\snafu-0.7.5\src\../README.md:

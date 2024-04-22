@@ -1,0 +1,13 @@
+C:\Users\ASUS\Documents\Term 4\Adpro\tutorial-8\subscriber\target\debug\deps\liburl-9d818f3faa1e96ee.rmeta: C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-1.7.2\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-1.7.2\src\encoding.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-1.7.2\src\host.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-1.7.2\src\origin.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-1.7.2\src\path_segments.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-1.7.2\src\parser.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-1.7.2\src\slicing.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-1.7.2\src\form_urlencoded.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-1.7.2\src\quirks.rs
+
+C:\Users\ASUS\Documents\Term 4\Adpro\tutorial-8\subscriber\target\debug\deps\url-9d818f3faa1e96ee.d: C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-1.7.2\src\lib.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-1.7.2\src\encoding.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-1.7.2\src\host.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-1.7.2\src\origin.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-1.7.2\src\path_segments.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-1.7.2\src\parser.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-1.7.2\src\slicing.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-1.7.2\src\form_urlencoded.rs C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-1.7.2\src\quirks.rs
+
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-1.7.2\src\lib.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-1.7.2\src\encoding.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-1.7.2\src\host.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-1.7.2\src\origin.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-1.7.2\src\path_segments.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-1.7.2\src\parser.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-1.7.2\src\slicing.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-1.7.2\src\form_urlencoded.rs:
+C:\Users\ASUS\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-1.7.2\src\quirks.rs:
