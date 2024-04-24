@@ -6,3 +6,12 @@ String guest:guest@localhost:5672 adalah string untuk koneksi pada AMQP server. 
 
 ![alt text](image.png)
 Screen capture ketika mensimulasikan subscriber yang lambat
+
+![alt text](image-3.png)
+![alt text](image-2.png)
+
+Pada capture kali ini, saya menjalankan 3 subscriber sekaligus sehingga spike dari message queue menjadi berkurang dari sebelumnya. Hal ini bisa terjadi karena request dari queue yang diterima akan terbagi ke 3 subscriber
+
+Terdapat beberapa perbaikan yang bisa dilakukan:
+1. Menggunakan match untuk menangani kesalahan saat program dijalankan. Berbeda dengan yang digunakan sekarang ini yaitu dengan menggunakan method unwrap() bisa menyebabkan panic saat resultnya adalah err.
+2. Pendefinisian variabel tertentu untuk hal yang digunakan secara berulang-berulang, sehingga penulisan kode menjadi lebih rapih dan mudah untuk dilihat
